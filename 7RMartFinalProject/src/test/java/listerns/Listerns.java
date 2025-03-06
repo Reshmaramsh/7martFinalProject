@@ -127,7 +127,7 @@ public class Listerns extends Base implements ITestListener {//detailed html rep
 //itest listener=predefined interface
 //threadlocker=when we need to execute more than one method
 //all these methods are from itest listers.
-//override cheythikkan
+//overlapping ozhivakkan
 //itestresult=interface to manage report lifecycle.to manage pass,fail etcc....method run cheyynnathin munne invoak aavm
 //ontest success method=creates status of the particular method,if it passes ...invokes aftr running
 //on test failure contra of on test pass
